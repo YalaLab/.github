@@ -1,1 +1,5 @@
-# .github
+# Yala Lab at UC Berkeley and UCSF
+
+Our research develops machine learning methods for personalized health care and translates them to clinical practice. Our overarching goal is to offer each patient the right intervention (e.g., screening exam, or particular treatment choice) at the right time according to their individual risks and preferences. We're also interested in developing robust tools to reimagine clinical workflows, with a special emphasis on radiology and oncology. To this end, our lab focuses on three major themes: 1) modeling full patient records (e.g. multi-modal imaging, vision-language, etc) to better understand patient outcomes, 2) deriving better decisions from AI-driven predictors (e.g. screening and treatment policies, choosing therapeutic targets, providing decision guarantees, etc.) and 3) clinical translation. Our tools are implemented at multiple hospital systems around the world, and underlie prospective clinical trials. 
+
+You can find a list of our publications [here](https://scholar.google.com/citations?user=a4unsk4AAAAJ&hl=en).
